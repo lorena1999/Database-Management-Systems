@@ -1,0 +1,9 @@
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\bin\Debug\Practic2R.exe.config
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\bin\Debug\Practic2R.exe
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\bin\Debug\Practic2R.pdb
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.csprojResolveAssemblyReference.cache
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.Form1.resources
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.Properties.Resources.resources
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.csproj.GenerateResource.Cache
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.exe
+c:\users\lm\documents\visual studio 2015\Projects\Practic2R\Practic2R\obj\Debug\Practic2R.pdb
