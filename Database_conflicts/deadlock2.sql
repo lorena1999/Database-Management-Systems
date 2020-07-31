@@ -1,0 +1,11 @@
+use CartoonsDatabase
+
+BEGIN TRANSACTION 
+	UPDATE CARTOONS SET Channel='My2ndChannell'
+	WHERE CartoonId=1
+
+	--- DO SOME WORK
+
+	UPDATE CREATORS SET Name='MyCreator2'
+	WHERE CreatorId=1
+COMMIT TRANSACTION

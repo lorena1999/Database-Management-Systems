@@ -1,0 +1,13 @@
+use CartoonsDatabase
+
+ALTER DATABASE CartoonsDatabase SET ALLOW_SNAPSHOT_ISOLATION ON
+
+--- DO SOME WORK
+
+BEGIN TRAN
+UPDATE CREATORS SET Name = 'Lorenaaa' 
+WHERE CreatorId = 1
+
+--- DO SOME WORK
+
+COMMIT TRAN
